@@ -1,0 +1,10 @@
+c:\users\pablohenrique\documents\visual studio 2012\Projects\assignment2\assignment2\bin\Debug\assignment2.exe.config
+c:\users\pablohenrique\documents\visual studio 2012\Projects\assignment2\assignment2\bin\Debug\assignment2.exe
+c:\users\pablohenrique\documents\visual studio 2012\Projects\assignment2\assignment2\bin\Debug\assignment2.pdb
+c:\users\pablohenrique\documents\visual studio 2012\Projects\assignment2\assignment2\bin\Debug\assignment2.xml
+c:\users\pablohenrique\documents\visual studio 2012\Projects\assignment2\assignment2\obj\Debug\assignment2.Resources.resources
+c:\users\pablohenrique\documents\visual studio 2012\Projects\assignment2\assignment2\obj\Debug\assignment2.vbproj.GenerateResource.Cache
+c:\users\pablohenrique\documents\visual studio 2012\Projects\assignment2\assignment2\obj\Debug\assignment2.exe
+c:\users\pablohenrique\documents\visual studio 2012\Projects\assignment2\assignment2\obj\Debug\assignment2.xml
+c:\users\pablohenrique\documents\visual studio 2012\Projects\assignment2\assignment2\obj\Debug\assignment2.pdb
+C:\Users\pablohenrique\documents\visual studio 2012\Projects\assignment2\assignment2\obj\Debug\assignment2.Assignment2.resources

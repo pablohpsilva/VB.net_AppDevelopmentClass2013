@@ -1,0 +1,10 @@
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment5\Assignment5\bin\Debug\Assignment5.exe.config
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment5\Assignment5\bin\Debug\Assignment5.exe
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment5\Assignment5\bin\Debug\Assignment5.pdb
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment5\Assignment5\bin\Debug\Assignment5.xml
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment5\Assignment5\obj\Debug\Assignment5.Form1.resources
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment5\Assignment5\obj\Debug\Assignment5.Resources.resources
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment5\Assignment5\obj\Debug\Assignment5.vbproj.GenerateResource.Cache
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment5\Assignment5\obj\Debug\Assignment5.exe
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment5\Assignment5\obj\Debug\Assignment5.xml
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment5\Assignment5\obj\Debug\Assignment5.pdb

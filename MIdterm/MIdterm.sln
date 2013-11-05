@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MIdterm", "MIdterm\MIdterm.vbproj", "{86EEC4EA-0B9D-4927-95BF-4D5AF1D08A51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86EEC4EA-0B9D-4927-95BF-4D5AF1D08A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86EEC4EA-0B9D-4927-95BF-4D5AF1D08A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86EEC4EA-0B9D-4927-95BF-4D5AF1D08A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86EEC4EA-0B9D-4927-95BF-4D5AF1D08A51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment4-ExerciseSept24\Assignment4-ExerciseSept24\bin\Debug\Assignment4-ExerciseSept24.exe.config
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment4-ExerciseSept24\Assignment4-ExerciseSept24\bin\Debug\Assignment4-ExerciseSept24.exe
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment4-ExerciseSept24\Assignment4-ExerciseSept24\bin\Debug\Assignment4-ExerciseSept24.pdb
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment4-ExerciseSept24\Assignment4-ExerciseSept24\bin\Debug\Assignment4-ExerciseSept24.xml
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment4-ExerciseSept24\Assignment4-ExerciseSept24\obj\Debug\Assignment4_ExerciseSept24.Form1.resources
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment4-ExerciseSept24\Assignment4-ExerciseSept24\obj\Debug\Assignment4_ExerciseSept24.Resources.resources
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment4-ExerciseSept24\Assignment4-ExerciseSept24\obj\Debug\Assignment4-ExerciseSept24.vbproj.GenerateResource.Cache
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment4-ExerciseSept24\Assignment4-ExerciseSept24\obj\Debug\Assignment4-ExerciseSept24.exe
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment4-ExerciseSept24\Assignment4-ExerciseSept24\obj\Debug\Assignment4-ExerciseSept24.xml
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment4-ExerciseSept24\Assignment4-ExerciseSept24\obj\Debug\Assignment4-ExerciseSept24.pdb

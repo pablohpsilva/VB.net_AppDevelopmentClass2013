@@ -1,0 +1,10 @@
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment6\Assignment6\bin\Debug\Assignment6.exe
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment6\Assignment6\bin\Debug\Assignment6.pdb
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment6\Assignment6\bin\Debug\Assignment6.xml
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.Form1.resources
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.Resources.resources
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.vbproj.GenerateResource.Cache
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.exe
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.xml
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
