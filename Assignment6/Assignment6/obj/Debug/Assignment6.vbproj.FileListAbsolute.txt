@@ -8,3 +8,7 @@ c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment6\Assignm
 c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.exe
 c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.xml
 c:\users\pablohenrique\documents\visual studio 2012\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
+C:\Users\pablohenrique\Documents\GitHub\vbnet-appDevelopment-class\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+C:\Users\pablohenrique\Documents\GitHub\vbnet-appDevelopment-class\Assignment6\Assignment6\obj\Debug\Assignment6.exe
+C:\Users\pablohenrique\Documents\GitHub\vbnet-appDevelopment-class\Assignment6\Assignment6\obj\Debug\Assignment6.xml
+C:\Users\pablohenrique\Documents\GitHub\vbnet-appDevelopment-class\Assignment6\Assignment6\obj\Debug\Assignment6.pdb

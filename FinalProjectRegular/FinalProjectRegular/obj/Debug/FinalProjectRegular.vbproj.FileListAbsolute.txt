@@ -1,0 +1,10 @@
+C:\Users\pablohenrique\Documents\GitHub\vbnet-appDevelopment-class\FinalProjectRegular\FinalProjectRegular\bin\Debug\FinalProjectRegular.exe.config
+C:\Users\pablohenrique\Documents\GitHub\vbnet-appDevelopment-class\FinalProjectRegular\FinalProjectRegular\bin\Debug\FinalProjectRegular.exe
+C:\Users\pablohenrique\Documents\GitHub\vbnet-appDevelopment-class\FinalProjectRegular\FinalProjectRegular\bin\Debug\FinalProjectRegular.pdb
+C:\Users\pablohenrique\Documents\GitHub\vbnet-appDevelopment-class\FinalProjectRegular\FinalProjectRegular\bin\Debug\FinalProjectRegular.xml
+C:\Users\pablohenrique\Documents\GitHub\vbnet-appDevelopment-class\FinalProjectRegular\FinalProjectRegular\obj\Debug\FinalProjectRegular.Form1.resources
+C:\Users\pablohenrique\Documents\GitHub\vbnet-appDevelopment-class\FinalProjectRegular\FinalProjectRegular\obj\Debug\FinalProjectRegular.Resources.resources
+C:\Users\pablohenrique\Documents\GitHub\vbnet-appDevelopment-class\FinalProjectRegular\FinalProjectRegular\obj\Debug\FinalProjectRegular.vbproj.GenerateResource.Cache
+C:\Users\pablohenrique\Documents\GitHub\vbnet-appDevelopment-class\FinalProjectRegular\FinalProjectRegular\obj\Debug\FinalProjectRegular.exe
+C:\Users\pablohenrique\Documents\GitHub\vbnet-appDevelopment-class\FinalProjectRegular\FinalProjectRegular\obj\Debug\FinalProjectRegular.xml
+C:\Users\pablohenrique\Documents\GitHub\vbnet-appDevelopment-class\FinalProjectRegular\FinalProjectRegular\obj\Debug\FinalProjectRegular.pdb
